@@ -18,7 +18,7 @@
   "keywords": [],
   "socket": false,
   "url": "https://restenford.com/lastnight/",
-  "manifest": "https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/world.json",
+  "manifest": "https://raw.githubusercontent.com/MrBrentRogers/LastNightOnEarth/main/world.json",
   "download": "https://github.com/MrBrentRogers/LastNightOnEarth/archive/1.0.zip",
   "license": "https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/LICENSE",
   "readme": "https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/README.md",
