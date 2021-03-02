@@ -7,15 +7,11 @@ Last Night on Earth D&amp;D is a survival horror game based loosely off the boar
 
 D&D5e Last Night On Earth: https://restenford.com/lastnight/
 
-url: https://restenford.com/lastnight/
-
-manifest: https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/world.json
-
-download: https://github.com/MrBrentRogers/LastNightOnEarth/archive/1.0.zip
-
-license: https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/LICENSE
-
-readme: https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/README.md
+"url": "https://restenford.com/lastnight/",
+"manifest": "https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/world.json",
+"download": "https://github.com/MrBrentRogers/LastNightOnEarth/archive/1.0.zip",
+"license": "https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/LICENSE",
+"readme": "https://github.com/MrBrentRogers/LastNightOnEarth/blob/main/README.md",
 
 
 ## Feedback
