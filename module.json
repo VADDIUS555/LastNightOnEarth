@@ -1,0 +1,85 @@
+{   
+   "name": "lastnightonearth",   
+   "title": "Last Night On Earth Adventures",   
+   "description": "A module using DnD5e and Ultramodern5 (UM5) to create a variety of scenarios in the Zombie troupe.",   
+   "author": "VAD#3906",
+   "version": "0.0.2",
+   "minimumCoreVersion": "0.7.9",
+   "compatibleCoreVersion":"1.0.0",
+    "system": "dnd5e",
+   "packs": [
+     {
+      "name": "equipement",
+      "label": "Equipement",
+      "path": "packs/equipement.db",
+      "entity": "Item",
+      "module": "lastnightonearth"
+     },
+   {
+      "name": "enemies",
+      "label": "Enemies",
+      "path": "packs/enemies.db",
+      "entity": "Actor",
+      "module": "lastnightonearth"
+    },
+    {
+      "name": "heroes_dnd5e",
+      "label": "Heroes (DnD5e)",
+      "path": "packs/heroesdnd.db",
+      "entity": "Actor",
+      "module": "lastnightonearth"
+    },
+    {
+      "name": "heroes_um5",
+      "label": "Heroes (UM5)",
+      "path": "packs/heroesum5.db",
+      "entity": "Actor",
+      "module": "lastnightonearth"
+    },
+    {
+      "name": "npcs",
+      "label": "NPC's",
+      "path": "packs/npc.db",
+      "entity": "Actor",
+      "module": "lastnightonearth"
+    },
+    {
+      "name": "scenarios",
+      "label": "Rules & Scenarios",
+      "path": "packs/scenarios.db",
+      "entity": "JournalEntry",
+      "module": "lastnightonearth"
+    },
+    {
+      "name": "scene_mapnotes",
+      "label": "Scene Notes",
+      "path": "packs/scenenotes.db",
+      "entity": "JournalEntry",
+      "module": "lastnightonearth"
+    },
+    {
+      "name": "Lastplaylist",
+      "label": "Last Playlist",
+      "path": "/packs/lastplaylists.db",
+      "entity": "Playlist",
+      "module": "lastnightonearth"
+    },
+    {
+      "name": "Scenes",
+      "label": "Scene Maps",
+      "path": "packs/scenemaps.db",
+      "entity": "Scene",
+      "module": "lastnightonearth"        
+    },
+     {
+      "name": "Lastnight_tables",
+      "label": "Last Rollable Tables",
+      "path": "packs/lasttables.db",
+      "entity": "RollTable",
+      "module": "lastnightonearth"
+    }
+   ],
+  "url": "https://restenford.com/lastnight/",
+  "manifest": "https://raw.githubusercontent.com/MrBrentRogers/LastNightOnEarth/main/module.json",
+  "download": "https://github.com/MrBrentRogers/LastNightOnEarth/archive/1.0.zip"
+ }

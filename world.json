@@ -3,7 +3,7 @@
   "title": "Last Night On Earth",
   "description": "Last Night on Earth D&D is a survival horror game based loosely off the board game of the same name.",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.0.0",
+  "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "1.0.0",
   "scripts": [],
   "esmodules": [],
