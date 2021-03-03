@@ -1,4 +1,5 @@
 {"name":"Alternative Locations (web)","type":"Scene","sort":300000,"flags":{},"parent":null,"color":"","_id":"26Kz8JVao8Ypkmsa"}
+{"name":"Evil Dead","type":"Scene","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"BRebzUuem3mLnfae"}
 {"name":"Mansions","type":"Scene","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"BxXlDjktJtyTyYos"}
 {"name":"Foundry-Patrol","type":"JournalEntry","sort":null,"flags":{},"parent":null,"color":"","_id":"E6ylx2NCoWeBwAcA"}
 {"name":"Tom Cartos Maps","type":"Scene","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"IXTHwiRzXzVtcGyh"}
